@@ -12,4 +12,4 @@ Built with help from the following:
 - https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach
 - https://stackoverflow.com/questions/4907843/open-a-url-in-a-new-tab-and-not-a-new-window
 - https://mrcoles.com/bookmarklet/#
-
+- https://github.com/retrography/VUTt
