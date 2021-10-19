@@ -11,8 +11,8 @@ How to use:
 Note: If you only see one tab open, you might need to disable your popup blocker.
 
 Built with help from the following:
+- https://mrcoles.com/bookmarklet/# (Great tool for creating your own bookmarklets)
 - https://www.w3schools.com/jsref/met_document_queryselectorall.asp
 - https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach
 - https://stackoverflow.com/questions/4907843/open-a-url-in-a-new-tab-and-not-a-new-window
-- https://mrcoles.com/bookmarklet/#
-- https://github.com/retrography/VUTt
+- https://github.com/retrography/VUTt (Figuring out how to get bookmarket links to work on gh-pages)
